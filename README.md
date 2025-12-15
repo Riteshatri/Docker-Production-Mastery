@@ -1256,8 +1256,7 @@ git push origin feature/AmazingFeature
 
 - 💼 LinkedIn: [linkedin.com/in/riteshatri](https://www.linkedin.com/in/riteshatri)
 - 🐙 GitHub: [github.com/Riteshatri](https://github.com/Riteshatri)
-- 📧 Email: your.email@example.com
-- 🌐 Website: your-website.com
+
 
 ---
 
