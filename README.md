@@ -1258,15 +1258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/docker-production-mastery?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/docker-production-mastery?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/docker-production-mastery)
-![GitHub license](https://img.shields.io/github/license/yourusername/docker-production-mastery)
-
----
-
 <div align="center">
 
 ## 🎓 You're Production Ready!
