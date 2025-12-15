@@ -1225,30 +1225,24 @@ git push origin feature/AmazingFeature
 
 ---
 
-## 👨‍💼 Author
+<div align="left" style="background: #454868bc; border-radius: 12px; padding: 30px; margin: 25px 0;">
 
-**Ritesh Sharma**
-*DevOps Engineer | Cloud Architect*
+## 👨‍💻 **Author**
 
-### Skills & Expertise
+### **_[Ritesh Sharma](https://www.linkedin.com/in/riteshatri/)_**
 
-- ☁️ **Cloud Platforms**: Azure
-- 🏗️ **Infrastructure as Code**: Terraform
-- 🔄 **CI/CD**: GitHub Actions, Azure DevOps
-- 🐳 **Containers**: Docker, Kubernetes
-- ⚡ **Automation**: Bash, Python, PowerShell
-- 🔧 **Configuration Management**: Ansible
-- 📊 **Monitoring**: Prometheus, Grafana
-- 🔐 **Security**: DevSecOps practices
+### 💼 *DevOps Engineer | Cloud Architect | Azure | Terraform | CI/CD | Cloud Automation*
+ **_Tech :_**   **Azure | Terraform | CI/CD (_Github Action | Azure DevOps_) | Cloud Automation**
 
-### Connect with Me
+<!-- <div style="margin: 5px 0; display: flex; gap: 30px; justify-content: left;">  -->
 
-- 💼 LinkedIn: [linkedin.com/in/riteshatri](https://www.linkedin.com/in/riteshatri)
-- 🐙 GitHub: [github.com/Riteshatri](https://github.com/Riteshatri)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshatri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riteshatri)  
+![GitHub followers](https://img.shields.io/github/followers/riteshatri?label=Follow%20Me&style=social)
+![GitHub stars](https://img.shields.io/github/stars/riteshatri/devops-interview-guide?style=social)
 ---
 
+<!-- </div> -->
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
