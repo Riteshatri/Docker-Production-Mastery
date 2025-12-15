@@ -86,7 +86,7 @@
 
 ## 🚀 Quick Start
 
-### Option 1: React Application
+### React Application
 
 ```bash
 # Clone the repository
@@ -102,17 +102,6 @@ npm install
 npm run dev
 
 # Open browser at http://localhost:5173
-```
-
-### Option 2: Standalone HTML
-
-Simply open `standalone-index.html` in any modern web browser. No installation, no dependencies, no build step required!
-
-```bash
-# Just open the file
-open standalone-index.html  # macOS
-xdg-open standalone-index.html  # Linux
-start standalone-index.html  # Windows
 ```
 
 ---
