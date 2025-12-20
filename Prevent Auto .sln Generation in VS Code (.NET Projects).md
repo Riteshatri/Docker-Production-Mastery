@@ -5,7 +5,7 @@
 When opening a .NET project in **VS Code**, the editor may automatically
 generate a `.sln` (Solution) file such as:
 
-    elearn-backend.sln
+    ourproject.sln
 
 This happens **without user interaction** and can cause:
 
